@@ -109,10 +109,14 @@ h1 {
 }
 
 .nav-item:hover {
-  font-size: 1.2em;
-  color: white;
+  font-size: 1.1em;
+  color:#f5f6f7;
   padding: 8px 5px;
+  background-color:  rgb(13, 110, 253);
+  border-radius: 10%;
 }
+
+
 
 .logo-pagina {
   width: 50px;
@@ -431,6 +435,7 @@ h1 {
   color: #aeaeae;
   padding: 20px;
 }
+
 
 
 
